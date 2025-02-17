@@ -33,8 +33,8 @@ This was the third lab of my new and improved of ECSE3038.
 
 ## Two Truths and a Lie
 What you think?
-I love bananas
-I once allegedly stole from a charity to give to a better charity
-I swam for Jamaica one time in Barbados
+- **I love bananas**
+- **I once allegedly stole from a charity to give to a better charity**
+- **I swam for Jamaica one time in Barbados**
 
 heheheh you figure it out
